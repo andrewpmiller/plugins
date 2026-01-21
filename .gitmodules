@@ -1,0 +1,6 @@
+[submodule "spn_to_c"]
+	path = spn_to_c
+	url = https://github.com/expertsleepersltd/spn_to_c
+[submodule "distingNT_API"]
+	path = distingNT_API
+	url = https://github.com/expertsleepersltd/distingNT_API
