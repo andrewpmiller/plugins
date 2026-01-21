@@ -1,0 +1,4 @@
+Johnny Greeenwood's MAX Delay
+LFO speed
+Max Delay Time
+Randomness (none-max)
