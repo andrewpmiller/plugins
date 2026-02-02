@@ -1,3 +1,8 @@
+declare guid "AMLi" ;
+declare name "1176 Stereo Limiter";
+declare description "1176 Limiter based on the classic hardware unit.";
+declare version "0.0";
+
 import ("stdfaust.lib");
 
 el = library("effect.lib");
