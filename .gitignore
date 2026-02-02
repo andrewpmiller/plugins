@@ -1,3 +1,6 @@
 # Build artifacts
 3pot/plugins/
 faust/plugins/
+
+# Local TODO.txt file
+TODO.txt
