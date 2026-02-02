@@ -1,6 +1,6 @@
 declare guid "AMLa" ;
-declare name "Lookahead Stereo Limiter";
-declare description "Limiter using a lookahead delay to prevent clipping.";
+declare name "Lookahead Limiter";
+declare description "Stereo Limiter using a lookahead delay.";
 declare version "0.0";
 
 import("stdfaust.lib");
